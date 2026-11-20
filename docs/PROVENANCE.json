@@ -1,0 +1,10 @@
+{
+  "source_notebook_sha256": "ab6f9313893917478c78ca0604d2319723fbf0dc79d36a3ecc1aa2d28a5f7d4c",
+  "source_results_sha256": "26d40aa8cc798a1a12b23ba94832278762923e5997230909ee3a6e3c60653caa",
+  "source_notebook_cells": 38,
+  "historical_results_changed": [
+    "dataset.path replaced to remove absolute local path",
+    "publication_note added; numerical metrics/history unchanged"
+  ],
+  "outputs_removed": "All original notebook outputs, including dataset sample photographs and local paths; metrics-only charts may be rebuilt from historical JSON."
+}

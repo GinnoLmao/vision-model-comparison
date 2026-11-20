@@ -1,0 +1,10 @@
+{
+  "counts": {
+    "train/ants": 123,
+    "train/bees": 121,
+    "val/ants": 70,
+    "val/bees": 83
+  },
+  "byte_identical_cross_partition_hashes": 0,
+  "limitation": "Does not detect visually similar images, shared subjects, source overlap or all metadata risks."
+}

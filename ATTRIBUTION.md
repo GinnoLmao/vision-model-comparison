@@ -1,0 +1,8 @@
+# Attribution and scope
+
+- The publication copy was prepared from the user-supplied `dlearning1_fixed.ipynb` and `model_results.json` coursework artifacts. SHA-256 provenance is recorded in `docs/PROVENANCE.json`.
+- The official **Transfer Learning for Computer Vision Tutorial**, by **Sasank Chilamkurthy**, is the source reference for the ants/bees dataset route and standard transfer-learning approach. [Tutorial](https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html); [primary source](https://github.com/pytorch/tutorials/blob/main/beginner_source/transfer_learning_tutorial.py).
+- PyTorch tutorials identify the example code as BSD licensed; the [upstream BSD 3-Clause notice and conditions](https://github.com/pytorch/tutorials/blob/main/LICENSE) apply to any redistributed tutorial code. This attribution does not relicense photographs, model weights or other third-party material.
+- ResNet18 is the existing architecture implemented in TorchVision; RNN/LSTM/CNN layers are supplied by PyTorch. The repository does not claim invention of those methods.
+- No collaborator names were identified in the supplied notebook. Specific division of original implementation work was not documented; sole personal authorship of every original line is not claimed. Known credited contributions should be retained if added later.
+- The MIT license in `LICENSE` covers newly prepared project contributions only. Tutorial-derived portions remain subject to the BSD 3-Clause terms reproduced in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). No blanket license grant is made over third-party datasets, pretrained artifacts or dependency code; those artifacts are omitted.
